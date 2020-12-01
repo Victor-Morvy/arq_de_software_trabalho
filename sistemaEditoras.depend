@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1600965145 source:c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600965145 
+
+1602112955 source:/home/victor/Documentos/CienciaDaComputacao/trabalho_ArqSoftware/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604969839 source:c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"editoras.h"
+	"livros.h"
+	"autores.h"
+
+1603403624 c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\editora.h
+
+1604966857 c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\livros.h
+
+1604969444 c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\autores.h
+
+1604970069 source:c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\autores.c
+	"autores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604970087 source:c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\livros.c
+	"livros.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604970098 source:c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\editoras.c
+	"editoras.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604969748 c:\users\pichau\desktop\faculdade de ciencias da computação\4o semestre\2a feira - arquitetura de software\trabalhos\2020 09 24\editoras.h
+
